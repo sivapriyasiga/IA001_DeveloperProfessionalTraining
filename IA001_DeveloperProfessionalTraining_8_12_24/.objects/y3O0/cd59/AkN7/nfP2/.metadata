@@ -1,0 +1,13 @@
+﻿{
+  "Name": "$K$15",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "nfP2s130fEiWCSuXT9vrcQ",
+  "Reference": "s2P0fQ_LhEyJHjNP2bEY2A/nfP2s130fEiWCSuXT9vrcQ",
+  "ParentRef": "s2P0fQ_LhEyJHjNP2bEY2A/AkN7URQnk0qrrz2qaUHDOw",
+  "Created": "2024-12-13T13:36:39.091722Z",
+  "Updated": "2024-12-13T13:36:39.091722Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

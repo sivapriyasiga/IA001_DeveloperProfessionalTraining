@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Pr7B4RibN0KtKaUkpjh0TQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="14, 78, 131, 16" DesignTimeScaleFactor="1" ElementType="CheckBox" FullSelectorArgument="&lt;uia cls='NetUICheckbox' name='My table has headers' /&gt;" FuzzySelectorArgument="&lt;uia cls='NetUICheckbox' name='My table has headers' role='CheckBox' automationid='' check:fulltext='My table has headers' /&gt;" Guid="8a56fd6f-fcda-4aff-b45f-bfb642c9dc62" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Create Table' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c030380ea92c80aba62bbcfbeb2efc90.png" xmlns="">07iRXoUCEF0mr1-65_1zMow</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

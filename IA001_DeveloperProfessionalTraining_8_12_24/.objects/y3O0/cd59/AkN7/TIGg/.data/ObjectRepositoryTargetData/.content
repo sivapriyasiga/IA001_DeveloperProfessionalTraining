@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-xGuAkQYHUKrJ2rBrp8k9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="55, 97, 75, 23" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;uia cls='NetUIButton' name='OK' /&gt;" FuzzySelectorArgument="&lt;uia cls='NetUIButton' name='OK' role='Button' automationid='' check:fulltext='OK' /&gt;" Guid="129c668a-3033-4857-8389-87ead14a20ba" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Create Table' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e8fef5a61ffe9b62215dd29c30366696.png" xmlns="">0j0UjOApKokG7PnxEb7xcHg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

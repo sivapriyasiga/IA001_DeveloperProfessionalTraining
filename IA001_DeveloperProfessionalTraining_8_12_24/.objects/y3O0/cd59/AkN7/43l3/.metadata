@@ -1,0 +1,13 @@
+﻿{
+  "Name": "My table has headers",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "43l3qJHta0yiB9G7SUhChg",
+  "Reference": "s2P0fQ_LhEyJHjNP2bEY2A/43l3qJHta0yiB9G7SUhChg",
+  "ParentRef": "s2P0fQ_LhEyJHjNP2bEY2A/AkN7URQnk0qrrz2qaUHDOw",
+  "Created": "2024-12-13T13:36:39.1939824Z",
+  "Updated": "2024-12-13T13:36:39.1939824Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

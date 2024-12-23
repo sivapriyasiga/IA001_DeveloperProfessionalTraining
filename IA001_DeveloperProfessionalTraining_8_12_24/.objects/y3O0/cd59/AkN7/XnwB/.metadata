@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Format as Table",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "XnwBMAvKiU2tL01i-3pwXQ",
+  "Reference": "s2P0fQ_LhEyJHjNP2bEY2A/XnwBMAvKiU2tL01i-3pwXQ",
+  "ParentRef": "s2P0fQ_LhEyJHjNP2bEY2A/AkN7URQnk0qrrz2qaUHDOw",
+  "Created": "2024-12-13T13:36:38.8964255Z",
+  "Updated": "2024-12-13T13:36:38.8964255Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
